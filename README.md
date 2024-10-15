@@ -16,7 +16,7 @@ The Waveform Generator is a C++ application designed to generate and visualize v
 ## Requirements
 - C++11 or later
 - A C++ compiler (e.g., g++, clang++)
-- Optional: A plotting library (e.g., `matplotlib-cpp`, `gnuplot`)
+- Optional: A plotting library 
 
 ## Installation
 1. **Clone the Repository**:
